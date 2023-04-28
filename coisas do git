@@ -8,13 +8,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <img class="cabecalho-imagem" src="image 1.png" alt="logo da alura start">
-        <ul class="cabecalho-lista">
-            <li class="cabecalho-lista-item">Escola</li>
-            <li class="cabecalho-lista-item">Estudante</li>
+    <header class="cabeçalho">
+        <img class="cabeçalho-imagem" src="image 1.png" alt="logo da high school">
+        <ul class="cabeçalho-lista">
+            <li class="cabeçalho-lista-item">Escola</li>
+            <li class="cabeçalho-lista-item">Estudante</li>
         </ul>
-        </header>
-    
+    </header>
+
 </body>
 </html>
