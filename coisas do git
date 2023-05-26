@@ -4,17 +4,54 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Equipe Alura Start</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header class="cabeçalho">
-        <img class="cabeçalho-imagem" src="image 1.png" alt="logo da high school">
-        <ul class="cabeçalho-lista">
-            <li class="cabeçalho-lista-item">Escola</li>
-            <li class="cabeçalho-lista-item">Estudante</li>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="image 1.png" alt="logo da alura start">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
         </ul>
     </header>
-
+    <section class="escola">
+        <div class="escola-div-conteudo">
+            <h2 class="escola-titulo">Sobre a Escola</h2>
+            <p class="escola-texto-um">A High school foi fundada em 2023 com objetivo de priorizar as habilidades dos estudantes tanto no físico como no intelectual. </p>
+            <p class="escola-texto-dois">Nossa escola tem várias turmas cada turma tem sua classificação vai de nivel A que é o maior até o E que é o menor dos nível.</p>
+        </div>
+        <img class="escola-imagem" src="Formula-amico 1 (1).png" alt="imagem que representa o logo do colegio">
+    </section>
+    <section class="estudante">
+        <h2 class="estudante-titulo">Quem são nossos estudantes?</h2>
+        <div class="estudante-todos">
+        <span></span>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="saitama.jpeg" alt="foto da tania">
+            <h3 class="estudante-nome">Saitama</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github 1.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin 1.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram 1.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="bocchi.jpeg" alt="foto do marcelo">
+            <h3 class="estudante-nome">Bocchi</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github 1.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin 1.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram 1.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="luffy.jpeg" alt="foto do marcelo">
+            <h3 class="estudante-nome">Luffy</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github 1.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin 1.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram 1.png" alt="icone instagram"></a>
+        </div>
+    </div>
+    </section>
 </body>
 </html>
